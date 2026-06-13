@@ -1,0 +1,6 @@
+# API Keys and Database Credentials
+config.php
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
